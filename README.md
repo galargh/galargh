@@ -1,6 +1,6 @@
 ### Hi there 👋 [Stand with Ukraine](https://ukraine.ua/) 🇺🇦 [Abortion is OK](https://aborcjajestok.pl/) 🏥
 
-- ☕ I'm currently working at [Protocol Labs](https://protocol.ai/), leading the [InterPlantery Developer Experience](https://pl-strflt.notion.site/IPDX-122073392dce454e9ca4b87231034483) team 🦄🧑‍🚀
+- ☕ I'm currently consulting at [Protocol Labs](https://protocol.ai/), leading the [InterPlantery Developer Experience](https://pl-strflt.notion.site/IPDX-122073392dce454e9ca4b87231034483) team 🦄🧑‍🚀
 - 🔭 I’m currently working on 
   - [GitHub Configuration as Code](https://github.com/protocol/github-mgmt-template)
   - [GitHub Actions Monitoring](https://github.com/pl-strflt/tf-aws-gh-observer)
