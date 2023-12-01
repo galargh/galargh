@@ -3,10 +3,10 @@
 - 👓 I'm the Co-Founder and CTO of [IPDX](https://ipdx.co) - Developer Experience consulting company 💖
 - 📠 Previously, I founded and led internal Developer Experience teams at [Protocol Labs](https://protocol.ai/) and [Sumo Logic](https://sumologic.com)
 - 🔭 I’m currently working on 
-  - [GitHub Configuration as Code](https://github.com/protocol/github-mgmt-template)
-  - [GitHub Actions Monitoring](https://github.com/pl-strflt/tf-aws-gh-observer)
-  - [Self-Hosted GitHub Actions Runners for Open Source Repositories](https://github.com/pl-strflt/tf-aws-gh-runner)  
-  - [Unified GitHub Actions Configuration for Open Source Organisations](https://github.com/protocol/.github)
+  - [GitHub Configuration as Code](https://github.com/ipdxco/github-as-code)
+  - [GitHub Actions Monitoring](https://github.com/ipdxco/github-monitoring-dashboard)
+  - [Self-Hosted GitHub Actions Runners for Open Source Repositories](https://github.com/ipdxco/custom-github-runners)  
+  - [Unified GitHub Actions Configuration for Open Source Organisations](https://github.com/pl-strflt/uci)
 - 👯 I’m looking to collaborate on ALL OF THE ABOVE
 - 💬 Ask me about Developer Experience
 - 📫 How to reach me: Drop me an [issue](https://github.com/galargh/galargh/issues/new/choose) :octocat:, a [DM](https://twitter.com/galargh) 🐦 or an [email](mailto:piotr@piotrgalar.com) 📧 
