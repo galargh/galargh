@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Read my latest article about [sorting PR checks by their status](https://www.ipdx.co/articles/guides-articles/sorting-pr-checks-by-their-status) ✔️
+
 ### Hi there 👋
 
 - 👓 I'm the Co-Founder and CTO of [IPDX](https://ipdx.co) - Developer Experience consulting company 💖
