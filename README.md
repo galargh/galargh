@@ -1,4 +1,4 @@
-### Hi there 👋 [Stand with Ukraine](https://ukraine.ua/) 🇺🇦 [Abortion is OK](https://aborcjajestok.pl/) 🏥
+### Hi there 👋
 
 - 👓 I'm the Co-Founder and CTO of [IPDX](https://ipdx.co) - Developer Experience consulting company 💖
 - 📠 Previously, I founded and led internal Developer Experience teams at [Protocol Labs](https://protocol.ai/) and [Sumo Logic](https://sumologic.com)
