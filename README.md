@@ -1,5 +1,5 @@
-> [!IMPORTANT]  
-> Read my latest article about [sorting PR checks by their status](https://www.ipdx.co/articles/guides-articles/sorting-pr-checks-by-their-status) ✔️
+> [!NOTE]  
+> 📚 Read my latest article about [sorting PR checks by their status](https://www.ipdx.co/articles/guides-articles/sorting-pr-checks-by-their-status)
 
 - 👓 I'm the Co-Founder and CTO of [IPDX](https://ipdx.co) - Developer Experience consulting company 💖
 - 📠 Previously, I founded and led internal Developer Experience teams at [Protocol Labs](https://protocol.ai/) and [Sumo Logic](https://sumologic.com)
