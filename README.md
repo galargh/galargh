@@ -1,13 +1,10 @@
-> [!NOTE]  
-> 📚 Read my latest article about [sorting PR checks by their status](https://www.ipdx.co/articles/guides-articles/sorting-pr-checks-by-their-status)
-
-- 👓 I'm the Co-Founder and CTO of [IPDX](https://ipdx.co) - Developer Experience consulting company 💖
-- 📠 Previously, I founded and led internal Developer Experience teams at [Protocol Labs](https://protocol.ai/) and [Sumo Logic](https://sumologic.com)
+- 💖 Developer Experience is my passion 💖
+- 📠 I founded and led internal Developer Experience teams at [Protocol Labs](https://protocol.ai/) and [Sumo Logic](https://sumologic.com)
 - 🔭 I’m currently working on 
-  - [GitHub Configuration as Code](https://github.com/ipdxco/github-as-code)
+  - [GitHub as Code](https://github.com/ipdxco/github-as-code)
   - [GitHub Actions Monitoring](https://github.com/ipdxco/github-monitoring-dashboard)
-  - [Self-Hosted GitHub Actions Runners for Open Source Repositories](https://github.com/ipdxco/custom-github-runners)  
-  - [Unified GitHub Actions Configuration for Open Source Organisations](https://github.com/pl-strflt/uci)
+  - [Custom GitHub Actions Runners](https://github.com/ipdxco/custom-github-runners)  
+  - [Unified GitHub Actions Workflows](https://github.com/ipdxco/unified-github-workflows)
 - 👯 I’m looking to collaborate on ALL OF THE ABOVE
 - 💬 Ask me about Developer Experience
 - 📫 How to reach me: Drop me an [issue](https://github.com/galargh/galargh/issues/new/choose) :octocat:, a [DM](https://twitter.com/galargh) 🐦 or an [email](mailto:piotr@piotrgalar.com) 📧 
