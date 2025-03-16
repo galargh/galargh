@@ -1,16 +1,16 @@
 - 💖 Developer Experience is my passion 💖
 - 📠 I founded and led internal Developer Experience teams at [Protocol Labs](https://protocol.ai/) and [Sumo Logic](https://sumologic.com)
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
   - [GitHub as Code](https://github.com/ipdxco/github-as-code)
   - [GitHub Actions Monitoring](https://github.com/ipdxco/github-monitoring-dashboard)
-  - [Custom GitHub Actions Runners](https://github.com/ipdxco/custom-github-runners)  
+  - [Custom GitHub Actions Runners](https://github.com/ipdxco/custom-github-runners)
   - [Unified GitHub Actions Workflows](https://github.com/ipdxco/unified-github-workflows)
 - 👯 I’m looking to collaborate on ALL OF THE ABOVE
 - 💬 Ask me about Developer Experience
-- 📫 How to reach me: Drop me an [issue](https://github.com/galargh/galargh/issues/new/choose) :octocat:, a [DM](https://twitter.com/galargh) 🐦 or an [email](mailto:piotr@piotrgalar.com) 📧 
+- 📫 How to reach me: Drop me an [issue](https://github.com/galargh/galargh/issues/new/choose) :octocat:, a [DM](https://twitter.com/galargh) 🐦 or an [email](mailto:piotr@galargh.com) 📧
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In my free time, I dabble in gold smithing 💍 and trumpet playing 🎺
-- 🎼 Listen to me 
+- 🎼 Listen to me
   - [talking about GitHub Management](https://www.youtube.com/watch?v=t_Ywrsrxp_Y&pp=ygUHZ2FsYXJnaA%3D%3D)
   - [talking about Automation](https://www.youtube.com/watch?v=bILa9sPpBMs&t=14s&pp=ygUHZ2FsYXJnaA%3D%3D)
   - [talking about Testing](https://www.youtube.com/watch?v=PmIf77thO_c&pp=ygUHZ2FsYXJnaA%3D%3D)
